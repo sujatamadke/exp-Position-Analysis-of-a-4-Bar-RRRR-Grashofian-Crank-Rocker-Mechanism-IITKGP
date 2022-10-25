@@ -3,7 +3,8 @@ Position Analysis of a 4 Bar RRRR Grashofian Crank Rocker Mechanism
 
 Schematic Diagram of a 4 Bar RRRR Linkage
 <div align="center">
-<img src="images/4_bar_RRRR_schematic.gif" width="50%">
+<img src="images/RRRR_schematic.gif" width="50%">
+</div>
 
 Schematic Diagram of a 4 Bar RRRR Linkage
 
