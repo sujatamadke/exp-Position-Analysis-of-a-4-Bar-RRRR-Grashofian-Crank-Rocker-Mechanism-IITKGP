@@ -7,25 +7,25 @@
 <b>Discipline | <b> Mechanical Engineering 
 :--|:--|
 <b> Lab | <b> **Mechanisms and Robotics Lab**
-<b> Experiment|     <b> **Movemaster and Experiment 1**
+<b> Experiment|     <b> **Position Analysis of a 4 Bar RRRR Grashofian Crank Rocker Mechanism and Experiment 4**
 
 
 ### About the Experiment 
 
 <!--Fill a brief description of this experiment here-->
 
-<b>Name of Developer | <b> **Prof. C S Kumar**
+<b>Name of Developer | <b> **Dr. Kingshook Bhattacharyya**
 :--|:--|
 <b> Institute | <b>  **Indian Institute of Technology Kharagpur**
-<b> Email id|     <b>  **kumar@mech.iitkgp.ac.in**
+<b> Email id|     <b>  **king@mech.iitkgp.ernet.in**
 <b> Department |  **Department of Mechanical Engineering**
-<b>Webpage| <b> [http://facweb.iitkgp.ernet.in/~cskumar/](http://facweb.iitkgp.ernet.in/~cskumar/)
+<b>Webpage| <b> [http://www.iitkgp.ac.in/department/ME/faculty/me-king](http://www.iitkgp.ac.in/cv/me-king)
 
-
-### Contributors List
+## Contributors list
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
-1 | **Ujjal Dey** | Developer | Junior Research Fellow | Department of Mechanical Engineering | IIT Kharagpur | 
+1 | **Mitrajit Samanta** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
 2 | **Pabitra Kumar Jana** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
-2 | **Aditya Kameswara Rao Nandula** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
+3 | **Sujata Madke** | Integration | Research Engineer | Department of Mechanical Engineering | IIT Kharagpur | 
+
