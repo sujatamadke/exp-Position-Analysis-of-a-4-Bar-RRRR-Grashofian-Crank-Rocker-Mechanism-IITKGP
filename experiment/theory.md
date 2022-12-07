@@ -1,17 +1,18 @@
 ### Introduction
 Position Analysis of a 4 Bar RRRR Grashofian Crank Rocker Mechanism
 
-Schematic Diagram of a 4 Bar RRRR Linkage
+
 <div align="center">
-<img src="images/RRRR_schematic.gif" width="50%">
+<img src="images/RRRR_schematic.gif" width="30%">
+<p>Schematic Diagram of a 4 Bar RRRR Linkage</p>
 </div>
 
-<p>Schematic Diagram of a 4 Bar RRRR Linkage</p>
+
 
 The 4 bar RRRR mechanism is forms the basis of any study on mechanism. It is widely used in various forms because of the relative simplicity of design and manufacture as well as durability. Grashof's criteria is used to distinguish between 4 bar RRRR linkages depending on the rotatability of the individual links of a 4 bar mechanism. In brief, if l is the longest link, s the longest link and the other two links have length p and q then the following cases arise
 
 - l + s < p + q : Grashofian linkage
-  - l + s < p + q , shortest link s is the ground link : Double Crank
+- - l + s < p + q , shortest link s is the ground link : Double Crank
   - l + s < p + q , shortest link is the coupler : Double Rocker
   - l + s < p + q , shortest link is neither coupler nor ground : Crank Rocker
 - l + s > p + q : Non Grashofian Double Rocker
